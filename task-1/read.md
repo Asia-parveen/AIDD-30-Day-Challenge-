@@ -63,5 +63,14 @@ d) Adaptive Input Debugger
 a) Manual coding 
 b) Evaluating and improving AI outputs 
 ✅
-  
 c) UI design 
+d) Testing only
+
+## 5. What should developers focus on in the AI era?
+a) Syntax only
+b) Building reasoning + evaluation skills ✅
+c) Avoiding AI tools
+d) Manual workflows
+
+# Reflection:
+I learned that AI isn’t replacing developers — it’s transforming what it means to be one. The October 2025 Turning Point showed that programming is no longer just about typing code. It now requires stronger problem-solving, clearer thinking, and smarter collaboration with AI systems. In this new era, developers are becoming strategic decision-makers and coordinators. Instead of focusing only on syntax, they guide AI, evaluate its outputs, and design better solutions. With AI as a powerful partner, we can create software that is faster, smarter, and more innovative than ever before.
