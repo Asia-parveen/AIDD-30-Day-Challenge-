@@ -1,12 +1,13 @@
-AIDD (AI-Driven Development) 
-AIDD 30-Day Challenge — Task 1 
-Participant Name: Asia parveen 
-Roll no:(00441760) 
-Slot: Friday - 6:00 PM to 9:00 PM  
-Mentor: Sir Hamzah Syed  
-Reflection Section 
+# AIDD (AI-Driven Development) 
+## AIDD 30-Day Challenge — Task 1 
+### Participant Name: Asia parveen 
+### Roll no:(00441760) 
+### Slot: Friday - 6:00 PM to 9:00 PM  
+### Mentor: Sir Hamzah Syed  
+
+# Reflection Section 
 ✨
- Q1)-  What does AI-Driven Development mean to you? 
+ ## Q1)-  What does AI-Driven Development mean to you? 
 AI-Driven Development, for me, means working with AI instead of working alone. 
 Before, a developer had to write every line of code manually, search errors on Google, 
 and spend hours fixing small issues. Now, AI acts like a smart partner — it helps with 
@@ -16,7 +17,7 @@ powerful tool. My job is to guide the AI, evaluate its work, and make the final 
 It feels like a shift from “typing code” to “thinking creatively and strategically.” AI handles 
 speed; humans handle direction. 
 ✨
- Q2)- How do you see the future of Human–AI Collaboration in 
+ ## Q2)- How do you see the future of Human–AI Collaboration in 
 software development? 
 I think the future will be a strong partnership between humans and AI. 
 Developers will not disappear — instead, our role will upgrade. We will 
@@ -32,7 +33,8 @@ right approach, improving logic, and making better products.
 Overall, the future looks exciting: faster development, fewer barriers, and 
 more innovation. AI will be like a teammate who never gets tired, and 
 humans will continue to guide the direction. 
-MCQs Section : 
+
+# MCQs Section : 
 1. What is the main purpose of the AI-Native Era? 
 a) Replace developers  
 b) Empower developers through AI tools 
@@ -40,21 +42,24 @@ b) Empower developers through AI tools
   
 c) Eliminate coding  
 d) Automate testing 
-2. What defines an AI-driven developer?  
+
+## 2. What defines an AI-driven developer?  
 a) Writes only syntax  
 b) Creates context-aware prompts 
 ✅
  
 c) Avoids tools 
 d) Works offline  
-3. What does “AIDD” stand for? 
+
+## 3. What does “AIDD” stand for? 
 a) AI-Integrated Data Design  
 b) AI-Driven Development 
 ✅
   
 c) Automated IDE Deployment  
-d) Adaptive Input Debugger  
-4. What is the focus of Evaluation-Driven Development (EvDD)?  
+d) Adaptive Input Debugger 
+
+## 4. What is the focus of Evaluation-Driven Development (EvDD)?  
 a) Manual coding 
 b) Evaluating and improving AI outputs 
 ✅
