@@ -1,9 +1,5 @@
 # AIDD (AI-Driven Development) 
 ## AIDD 30-Day Challenge — Task 1 
-### Participant Name: Asia parveen 
-### Roll no:(00441760) 
-### Slot: Friday - 6:00 PM to 9:00 PM  
-### Mentor: Sir Hamzah Syed  
 
 # Reflection Section 
 ✨
