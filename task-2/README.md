@@ -106,7 +106,8 @@ user correction.
 
 ## Screenshot which showing CLI prompt and output:
 
-![Alt text](relative/path/to/image)
+![Email Screenshot](images/screenshot.png)
+
 
 
 # Part C — Multiple Choice Questions:
