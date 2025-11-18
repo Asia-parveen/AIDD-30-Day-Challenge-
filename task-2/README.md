@@ -106,7 +106,7 @@ user correction.
 
 ## Screenshot which showing CLI prompt and output:
 
-![Email Screenshot](images/screenshot.png)
+![Email Screenshot](images/email.png)
 
 
 
